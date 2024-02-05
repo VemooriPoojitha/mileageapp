@@ -3,3 +3,5 @@ pandas==2.1.4
 scikit-learn==1.2.2
 joblib==1.2.0
 pickleshare==0.7.5
+matplotlib==3.8.0
+seaborn==0.12.2
