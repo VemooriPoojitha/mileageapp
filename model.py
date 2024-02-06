@@ -52,8 +52,7 @@ import matplotlib.pyplot as plt
 # In[2]:
 
 
-import io
-get_ipython().run_line_magic('cd', '"C:\\Users\\vemoo\\Downloads\\Auto MPG"')
+
 
 
 # In[4]:
